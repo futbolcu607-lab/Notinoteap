@@ -1,0 +1,16 @@
+{
+  "name": "Noti",
+  "short_name": "Noti",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#f7f5f0",
+  "theme_color": "#f7f5f0",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
